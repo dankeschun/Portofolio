@@ -20,9 +20,7 @@ I am a Computer Science student interested in software development and web appli
 - **[ResQ Food](#)**: An online web shop for discounted foods nearing their expiration date, helping you save money on groceries.
 
 ## Contact
-- **School Email**: [bernard.fabian@binus.ac.id](mailto:bernard.fabian@binus.ac.id)
-- **Personal Email**: [brnrdfabian@gmail.com](mailto:brnrdfabian@gmail.com)
-- **Phone**: [+62 821 1579 5799](tel:+6282115795799)
+- **Uni Email**: [bernard.fabian@binus.ac.id](mailto:bernard.fabian@binus.ac.id)
 - **LinkedIn**: [linkedin.com/in/bernard-fabian](https://www.linkedin.com/in/bernard-fabian/)
 
 Thank you for visiting my portfolio!
